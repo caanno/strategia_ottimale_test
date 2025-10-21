@@ -163,6 +163,9 @@ if x:
     st.markdown("---")
     st.markdown("""
     #### 📘 Approfondimento
-    Questo progetto è descritto nel documento *“Modellazione probabilistica e strategia ottimale nei test a scelta multipla”*, che illustra i modelli alla base di questa applicazione.<br>Per leggere il documento <a href="https://www.linkedin.com/posts/matteo-siviero-7657372b6_strategia-ottimale-nei-test-a-scelta-multipla-activity-7386531461480255488-eg7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvtWn0B9inmyz7P6htKrwNjS4b9Zoho4To" target="_blank">clicca qui</a>.
+    Questo progetto è descritto nel documento *“Modellazione probabilistica e strategia ottimale nei test a scelta multipla”*, che illustra i modelli alla base di questa applicazione.
+    
+    Per leggere il documento [clicca qui](https://www.linkedin.com/posts/matteo-siviero-7657372b6_strategia-ottimale-nei-test-a-scelta-multipla-activity-7386531461480255488-eg7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvtWn0B9inmyz7P6htKrwNjS4b9Zoho4To).
+    """)
 
-    """, unsafe_allow_html=True)
+
